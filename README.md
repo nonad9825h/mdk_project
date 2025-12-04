@@ -1,2 +1,2 @@
 # mdk_project
-repository for the MDK discipline
+Страница документации по дисциплине мдк
