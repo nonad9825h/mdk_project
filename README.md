@@ -1,2 +1,2 @@
 # mdk_project
-repository for the MDK discipline
+Документация располагается по адресу: https://github.com/nonad9825h/mdk_project/tree/documentation
